@@ -2,11 +2,11 @@
 
 From functions and state machines to data science and machine learning.
 
-## Unit 1: Functions and Modular Code
+## Unit 1: [Functions and Modular Code](https://github.com/ssis-aa/functions-and-modular-code)
 
 In 9 lessons we learn the basics of defining and calling functions, providing input parameters and return output values. And we define and describe the algorithms to solve our problems.
 
-## Unit 2: [Managing State](managing-state)
+## Unit 2: [Managing State](https://github.com/ssis-aa/managing-state)
 
 Convert a binary string into a readable ASCII text to learn more about abstraction and decomposition.
 
