@@ -1,7 +1,25 @@
 # Advanced Automation at SSIS
-From state machine to data science and machine learning.
 
-## Hi there 👋
+From functions and state machines to data science and machine learning.
+
+## Unit 1: Functions and Modular Code
+
+In 9 lessons we learn the basics of defining and calling functions, providing input parameters and return output values. And we define and describe the algorithms to solve our problems.
+
+## Unit 2: [Managing State](managing-state)
+
+Convert a binary string into a readable ASCII text to learn more about abstraction and decomposition.
+
+## Unit 3: [Collaborative code](collaborative-code)
+
+
+## Unit 4: [Control Algorithms and APIs](control-algorithms-and-apis)
+
+
+## Unit 5: [Machine Learning](machine-learning)
+
+
+## Unit 6: [Measurement and Data Processing](measurement-and-data-processing)
 
 <!--
 
