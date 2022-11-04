@@ -11,7 +11,7 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 Convert a binary string into a readable ASCII text to learn more about abstraction and decomposition.
 
 ## Unit 3: [Collaborative code](https://github.com/ssis-aa/collaborative-code)
-<img src="circle_k.png" width="40%" align="right">
+<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/circle_k.png" width="40%" align="right">
 Create some generative art!
 
 ## Unit 4: [Control Algorithms and APIs](control-algorithms-and-apis)
