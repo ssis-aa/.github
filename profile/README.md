@@ -49,7 +49,7 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 8. Design Project Submission
 9. Singular Collaborative Art Project
 
-## Unit 4: [Control Algorithms and APIs](control-algorithms-and-apis)
+## Unit 4: [Control Algorithms and APIs](https://github.com/ssis-aa/control-algorithms-and-apis)
 
 
 ## Unit 5: [Machine Learning](machine-learning)
