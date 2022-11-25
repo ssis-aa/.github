@@ -6,6 +6,8 @@ From functions and state machines to data science and machine learning. See at [
 
 In 9 lessons we learn the basics of defining and calling functions, providing input parameters and return output values. And we define and describe the algorithms to solve our problems.
 
+<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/microbit.gif" width="20%" align="right">
+
 1. Welcome to Advanced Automation
 2. Introduction to Functions
 3. Shock Detector Case Study
@@ -17,6 +19,8 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 9. Drink Machine Testing Software
 
 ## Unit 2: [Managing State](https://github.com/ssis-aa/managing-state)
+
+<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/drinkdispenser.jpg" width="20%" align="right">
 
 1. Convert a binary string into a readable ASCII text to learn more about abstraction and decomposition.
 2. Binary Secret Code - Introduction to Abstraction
@@ -32,7 +36,8 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 12. The Crane Game - Example for Abstraction
 
 ## Unit 3: [Collaborative code](https://github.com/ssis-aa/collaborative-code)
-<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/circle_k.png" width="40%" align="right">
+<img src="https://github.com/kreier/circle_k/blob/main/result2.png" width="40%" align="right">
+<!-- <img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/circle_k.png" width="40%" align="right"> -->
 
 1. Create some generative art!
 2. Generative Art and the Circle K Project
