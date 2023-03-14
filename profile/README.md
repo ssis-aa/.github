@@ -50,7 +50,23 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 9. Singular Collaborative Art Project
 
 ## Unit 4: [Control Algorithms and APIs](https://github.com/ssis-aa/control-algorithms-and-apis)
+<img src="https://github.com/ssis-aa/rvr2023/blob/main/docs/rvr2023.jpg" width="30%" align="right">
 
+1. Introduction Control Systems Board
+2. Carrier board rp2040 - physical and electrical connection
+3. The I2C Bus
+4. Activate the OLED display
+5. Control Algorithms
+6. Digital states and Pulldown Resistors
+7. Feedback Control Systems
+8. The PID controller
+9. VEX VR Control Systems Task
+10. Water Flow Controller and Landing a Rocket
+11. APIs and Libraries
+12. Sphero RVR API
+13. Control Challenge 2022-2023
+14. Documentation on Design Decisions
+15. On the Field: Control Systems and API Challenge
 
 ## Unit 5: [Machine Learning](machine-learning)
 
