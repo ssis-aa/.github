@@ -63,16 +63,29 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 9. VEX VR Control Systems Task
 10. Water Flow Controller and Landing a Rocket
 11. APIs and Libraries
-12. Sphero RVR API
+12. Sphero RVR API - see more at [rvr2023](https://github.com/ssis-aa/rvr2023)
 13. Control Challenge 2022-2023
 14. Documentation on Design Decisions
 15. On the Field: Control Systems and API Challenge
 
-## Unit 5: [Machine Learning](machine-learning)
+## Unit 5: [Machine Learning](https://github.com/ssis-aa/machine-learning)
 
+1. Sketch Classifier
+2. Improving the Classifier
+3. Self Driving Car Activity
+4. Iterative Design
+5. Evaluating Algorithms and Standards
+6. Machine Learning Project - Objective and Dataset
+7. Machine Learning Project - Algorithm and Training Data
+8. Machine Learning Project - Training the Model
+9. Documenting Iterations
+10. Saving the Dataset and Model
+11. JSON data exchange
+12. Presentation of final version as a website
 
 ## Unit 6: [Measurement and Data Processing](measurement-and-data-processing)
 
+1. Introduction
 <!--
 **Here are some ideas to get you started:**
 
