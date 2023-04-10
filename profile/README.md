@@ -4,7 +4,7 @@ From functions and state machines to data science and machine learning. See at [
 
 ## Unit 1: [Functions and Modular Code](https://github.com/ssis-aa/functions-and-modular-code)
 
-In 9 lessons we learn the basics of defining and calling functions, providing input parameters and return output values. And we define and describe the algorithms to solve our problems.
+In our first unit we learn the basics of defining and calling functions, providing input parameters and return output values. And we define and describe the algorithms to solve our problems. Rearranging program code to become modular makes it easier to reuse code and reduce errors.
 
 <img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/microbit.gif" width="20%" align="right">
 
@@ -83,15 +83,7 @@ In 9 lessons we learn the basics of defining and calling functions, providing in
 11. JSON data exchange
 12. Presentation of final version as a website
 
-## Unit 6: [Measurement and Data Processing](measurement-and-data-processing)
+## Unit 6: [Measurement and Data Processing](https://github.com/ssis-aa/measurement-and-data-processing)
 
-1. Introduction
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Interpreting graphs and analyze csv files
+2. Processing large csv files
