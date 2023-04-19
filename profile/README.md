@@ -87,3 +87,6 @@ In our first unit we learn the basics of defining and calling functions, providi
 
 1. Interpreting graphs and analyze csv files
 2. Processing large csv files
+3. Determining Pulse Width
+4. [Morse code challenge](https://github.com/ssis-aa/morse)
+5. Sensor Calibration, Smoothing, Rate of Change
