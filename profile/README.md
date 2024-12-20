@@ -90,3 +90,12 @@ In our first unit we learn the basics of defining and calling functions, providi
 3. Determining Pulse Width
 4. [Morse code challenge](https://github.com/ssis-aa/morse)
 5. Sensor Calibration, Smoothing, Rate of Change
+
+## Used Languages, Websites and Projects
+
+- Unit 1: JavaScript for [Makecode of the microbit](https://makecode.microbit.org/#), [example](https://github.com/ssis-aa/functions-and-modular-code/blob/main/microbit/modularCodeExampleStart.js) code and on [makecode](https://makecode.microbit.org/95577-10190-19998-13818)
+- Unit 2: Python on [replit](https://replit.com/~), [starter code](https://github.com/ssis-aa/managing-state/blob/main/binary/bitstring_to_ascii.py) and [on replit](https://replit.com/@evanweinberg/TranslatingBinary#main.py)
+- Unit 3: JavaScript on [p5js.org](https://p5js.org/) for [collaborative code](https://editor.p5js.org/mkreier/sketches/ddIcofCBf) and [generative art](https://editor.p5js.org/mkreier/sketches/vy0dgv6Cp)
+- Unit 4: Circuitpython and JavaScript on rp2040
+- Unit 5: JavaScript on p5js with [machine learning](https://editor.p5js.org/kreier/sketches/a1gdLa8rZ), training and inference
+- Unit 6: Python, Circuitpython, CSV files on [replit](https://replit.com/@evanweinberg/CSV-Reader-Pressures#main.py) and rp2040 or [CircuitPlayground](https://github.com/ssis-aa/measurement-and-data-processing/blob/main/circuitpython/morse_send.py) from Adafruit
