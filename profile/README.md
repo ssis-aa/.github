@@ -70,6 +70,8 @@ In our first unit we learn the basics of defining and calling functions, providi
 
 ## Unit 5: [Machine Learning](https://github.com/ssis-aa/machine-learning)
 
+<img src="https://raw.githubusercontent.com/ssis-aa/machine-learning/refs/heads/main/docs/ml_p5js_2023-03-17.png" width="45%" align="right">
+
 1. Sketch Classifier
 2. Improving the Classifier
 3. Self Driving Car Activity
